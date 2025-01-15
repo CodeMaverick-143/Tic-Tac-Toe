@@ -29,7 +29,7 @@ You can play the game live here: [Tic Tac Toe Game](https://tic-tac-toe-alpha-br
 1. Choose your symbol (Cross or Circle).
 2. Take turns with your opponent to place your symbol on the 3x3 grid.
 3. The first player to place three of their symbols in a row (horizontally, vertically, or diagonally) wins!
-4. You can restart the game or reset the score using the buttons provided.
+4. You can restart the game or reset the score using the buttons provided.............
 
 ## Installation
 
